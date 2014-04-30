@@ -7,7 +7,7 @@ class eclipse::jee {
 
   package { 'Eclipse-JEE-Kepler-SR1':
     provider => 'compressed_app',
-    source   => 'http://eclipse.mirror.triple-it.nl/technology/epp/downloads/release/kepler/SR1/eclipse-jee-kepler-SR1-macosx-cocoa-x86_64.tar.gz',
+    source   => 'http://eclipse.mirror.triple-it.nl/technology/epp/downloads/release/kepler/SR2/eclipse-jee-kepler-SR2-macosx-cocoa-x86_64.tar.gz',
   }
 
 }
